@@ -1,4 +1,7 @@
+
 # Space Biology Knowledge Engine 🚀
+
+![Project Logo](https://github.com/fatimaelkashef280-art/Space-biology-knowledge-engine/blob/main/logo.png)
 
 This project was created for the **NASA Space Apps Challenge 2025**.  
 Our goal is to build a functional **knowledge engine** that helps summarize, connect, and visualize insights from over **600 NASA space biology publications**.  
@@ -47,7 +50,3 @@ We propose an **interactive dashboard** powered by:
 2. Expand summaries using NLP models.  
 3. Connect live to NASA repositories for continuous updates.  
 
----
-
-## 📷 Team
-*(Add your team photo or logo here)*
